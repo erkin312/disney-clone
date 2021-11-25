@@ -31,7 +31,7 @@ const Header = () => {
           <span>SERIES</span>
         </a>
       </NavMenu>
-      <UserImg src="/58.jpg" />
+      <UserImg src="/PicsArt_04-26-02.19.44.jpg" />
     </Nav>
   );
 };
